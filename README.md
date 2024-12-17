@@ -1,7 +1,5 @@
-# How polarized are the old and the young in Germany?
+## How polarized are the old and the young in Germany?
 *A descriptive analysis of age group-related polarization in public opinion  between 1990 and 2018.*
-
-## Research Design & Abstract
 
 **Research Question:** How did the polarization of public opinion within and between generations in Germany change between 1990 and 2018?
 

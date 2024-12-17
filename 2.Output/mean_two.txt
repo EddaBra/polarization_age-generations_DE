@@ -1,0 +1,3 @@
+"gen"	"item_fr01"	"item_fr03a"	"item_fr05a"	"item_fr06"	"item_fr02"	"item_fr04a"	"item_fn02"	"item_abtreib1"	"item_abtreib2"	"item_abtreib3"	"item_abtreib4"	"item_sterbe"	"item_hasch"	"item_homo"	"item_iw05"	"item_iw02"	"item_iw06"	"item_iw07"	"item_im19"	"item_im20"	"item_im21"	"item_mi02"	"item_mi04"	"item_ma01"	"item_ma04"	"item_ma02"	"item_ma03"
+"1"	"genalt"	NA	NA	NA	NA	NA	NA	1,66489046773239	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2,44779722389861	2,46980676328502	3,02020202020202	NA	NA	NA	NA	NA	NA
+"2"	"genjung"	NA	NA	NA	NA	NA	NA	1,80045610034208	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2,56575102279369	2,67115272088941	3,00751445086705	NA	NA	NA	NA	NA	NA

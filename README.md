@@ -3,7 +3,8 @@
 
 **Research Question:** How did the polarization of public opinion within and between generations in Germany change between 1990 and 2018?
 
-**Data:** ALLBUS data from 1980-2018
+**Data:** ALLBUS data from 1980-2018 
+Download the date [here](https://search.gesis.org/research_data/ZA5284) and name it "ALLBUS1980-2018.dta" or skip this the data set preparation steps and start with the R script "Estimate with hgmr_Step3.R", where the uploaded "Data_Allbus,Zeit.Rdata" is used.  
 For more information see: GESIS-Leibniz-Institut Für Sozialwissenschaften. (2021). ALLBUS/GGSS 1980-2018 (Kumulierte Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/Cumulated German General Social Survey 1980-2018)Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2018 (1.1.0) [Data set]. GESIS Data Archive. [https://doi.org/10.4232/1.13748](https://doi.org/10.4232/1.13748)
 
 **Method**:  Hierarchical Item Response Model. Method based on the following papers: 

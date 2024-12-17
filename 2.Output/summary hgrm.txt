@@ -1,0 +1,5 @@
+"Estimate"	"Std_Error"	"z_value"	"p_value"
+"x(Intercept)"	-0,239	0,038	-6,369	0
+"xgengenjung"	0,285	0,025	11,373	0
+"xyearseq"	0,011	0,001	11,291	0
+"xgengenjung:yearseq"	0	0,001	0,106	0,915

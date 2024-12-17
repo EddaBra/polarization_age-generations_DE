@@ -17,8 +17,8 @@ In a nutshell, it can be seen that the younger cohort is more left-liberal in th
 
 **Infos concerning the code**  
 Scripts were coded under R 4.3.2.  
-Method was developed by Traber, Stoetzer and Burri (2023). Starting point of the data analysis was code written by [Lukas Stoetzer](https://www.lukas-stoetzer.org/)
-Necessary libraries are listed at the beginning of the script.
+Method was developed by Traber, Stoetzer and Burri (2023). Starting point of the data analysis was code written by [Lukas Stoetzer.](https://www.lukas-stoetzer.org/)
+Used libraries are listed at the beginning of the script.
 
 
 

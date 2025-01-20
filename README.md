@@ -20,7 +20,7 @@ In a nutshell, it can be seen that the younger cohort is more left-liberal in th
 
 *The interpreted and visualized results can be found in the research paper "Forschungspapier_Brandes_Polarisierung zwischen Generationen.pdf" (German).* 
 
-<img src="https://github.com/user-attachments/assets/bc692e1e-1769-46e7-bb8a-31361ceae748" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/bc692e1e-1769-46e7-bb8a-31361ceae748" width="250" height="250">
 
 -  this figure shows the estimated average and the distribution around the average of the older generation on the left and the younger generation of the right over the time. Higher values on the y-axis indicates a more left-liberal political attitude while lower values represent more right-conservative political attitudes
 -  overall, both generations get more left-liberal over the time.

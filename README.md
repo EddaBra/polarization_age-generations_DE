@@ -16,12 +16,11 @@ In recent years, the extent to which the political values of younger and older p
 A hierarchical item response model is calculated on the basis of data from the General Population Surveys from 1991 to 2018, which estimates the mean values and variance for an older (“post-war and affluent generation”, born between  1939 and 1964) and a younger cohort (“Generation X, Y and Z”, born between 1965 and 1995 ). This makes it possible to identify patterns in the direction of change and convergence within the two groups in their political attitudes. Political attitudes are measured via four topics: Family image, morality, redistribution and migration. In a second step, Bhattacharyya's distance measurement is used to analyse how the polarization between the groups has changed over time.  
 In a nutshell, it can be seen that the younger cohort is more left-liberal in their political attitudes than the older cohort. Furthermore, it can be seen that both generation groups have become more left-liberal and heterogeneous in their political attitudes over the years. The gap in political attitudes has remained relatively stable over time, meaning that there is no clear polarization or depolarization. If the individual topics are examined individually, it becomes clear that the differences in political attitudes between old and young are different and change to varying degrees: While old and young are very similar when it comes to socio-political attitudes, the difference is greatest when it comes to the image of the family. However, there is no strong polarization or depolarization in any of the topics.
 
-**key figure to illustrate the distributions of the younger and the older generation**:
-
+**key figures**:
 
 *The interpreted and visualized results can be found in the research paper "Forschungspapier_Brandes_Polarisierung zwischen Generationen.pdf" (German).* 
 
-![geschätzter Mittelwert und Varianz](https://github.com/user-attachments/assets/bc692e1e-1769-46e7-bb8a-31361ceae748)
+![geschätzter Mittelwert und Varianz](https://github.com/user-attachments/assets/bc692e1e-1769-46e7-bb8a-31361ceae748){width=50%}
 
 -  this figure shows the estimated average and the distribution around the average of the older generation on the left and the younger generation of the right over the time. Higher values on the y-axis indicates a more left-liberal political attitude while lower values represent more right-conservative political attitudes
 -  overall, both generations get more left-liberal over the time.

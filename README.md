@@ -27,17 +27,17 @@ In a nutshell, it can be seen that the younger cohort is more left-liberal in th
 -  the younger generation is in each time point more left-liberal than the older one
 -  looking at the vertical lines, which ilustrate the 10%, 30% and 50% around the average, more variance can be found in the older generation than in the younger. That indicates, the older generation is more heterogeneous
 
-<img src="https://github.com/user-attachments/assets/7950ff03-1e08-4413-b38d-c8b594791ec0" height="400">
+<img src="https://github.com/user-attachments/assets/7950ff03-1e08-4413-b38d-c8b594791ec0" height="300">
 
 -  in this figure the ideological cohesion is visualized. It is measured by the estimated variance of the distribution and the upper and lower bandwidth of the variance. Blue is the older, orange the younger generation.
 -  Comparing 1991 to 2018 in both generations much more heterogeneity can be found. This could be an indicator for an period effect, meaning that globalization and digitalization as mega trends reducing the effect of socio-demographic factors on individual political attitudes. In times of gobalization and digitalization individuals are more and more part of several groups, that offer multiple identifications. Thus, political attitudes are less determined by a particular group affiliation like a generation or sex. A high intra- and intergenerational mobility damps the effect.
 
-<img src=https://github.com/user-attachments/assets/f9f43a10-871b-479b-a7ff-825f69bd17e2" height="500">
+<img src="https://github.com/user-attachments/assets/f9f43a10-871b-479b-a7ff-825f69bd17e2" height="500">
 
 -  this figure shows the distribution of political attitudes over time in comparison for four time points.
 -  As you can see is the younger generation more homgeneous and more left-liberal. For both groups the curves elongated over time, what can be seen as an indicator for deploralization over time. Generational groups became less homogeneous and conclusion poliarization declines.
 
-<img src=(https://github.com/user-attachments/assets/3a917fe6-875d-4c08-888c-c8e8b7b0e035" height="300">
+<img src="https://github.com/user-attachments/assets/3a917fe6-875d-4c08-888c-c8e8b7b0e035" height="300">
 
 -  Finally, this figure shows the polarization between the groups, using Bhattacharyyas (1946) distance measurement.
 -  We can see that the distance between the averages of the political attitudes stays nearly the same and only a minimal decrease of the distance is perceptible. All in all, the analysis gives no indicator for an increase in polarization, that could back up the mass an newspaper articles proclaiming the danger of polarization in Germany. 
